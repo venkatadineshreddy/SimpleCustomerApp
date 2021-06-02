@@ -6,7 +6,7 @@ SonarQube Server Get Help here
 Jenkins Server Get Help here
 Implementation
 Login to Jenkins server and install sonarqube scanner.
-
+1
 SonarQube scanner URL : https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner
 Package : https://repo-maven-apache-org.azurefd.net/maven2/org/sonarsource/scanner/cli/sonar-scanner-cli/3.2.0.1227/
 # wget https://repo-maven-apache-org.azurefd.net/maven2/org/sonarsource/scanner/cli/sonar-scanner-cli/3.2.0.1227/

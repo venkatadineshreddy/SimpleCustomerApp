@@ -1,7 +1,6 @@
 SonarQube Integration with Jenkins
 Integration SonarQube server with Jenkins is necessary to store your reports. Follow below steps to enable that.
 
-Follow this in YouTube
 Prerequisites
 SonarQube Server Get Help here
 Jenkins Server Get Help here
